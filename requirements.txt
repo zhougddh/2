@@ -1,8 +1,0 @@
-streamlit==1.38.0
-easyocr
-pandas
-pillow
-numpy
-openpyxl
-torch
-torchvision
