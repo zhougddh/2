@@ -1,0 +1,8 @@
+streamlit==1.38.0
+easyocr
+pandas
+pillow>=12.0.0   # 或直接写 pillow
+numpy
+openpyxl
+torch
+torchvision
